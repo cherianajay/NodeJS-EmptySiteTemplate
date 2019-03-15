@@ -8,5 +8,10 @@
 "license": "Apache",
 "engines": {
     "node": "~0.10.0 || ~4.2.0"
+  },
+  "dependencies": {
+    "request": "~2.30.0",
+    "unirest":"~0.6.0"
+    
   }
 }
